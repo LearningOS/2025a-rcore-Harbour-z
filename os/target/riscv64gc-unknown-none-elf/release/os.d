@@ -1,0 +1,1 @@
+/root/learningos/rcore/os/target/riscv64gc-unknown-none-elf/release/os: /root/learningos/rcore/os/src/boards/qemu.rs /root/learningos/rcore/os/src/console.rs /root/learningos/rcore/os/src/entry.asm /root/learningos/rcore/os/src/lang_items.rs /root/learningos/rcore/os/src/logging.rs /root/learningos/rcore/os/src/main.rs /root/learningos/rcore/os/src/sbi.rs
